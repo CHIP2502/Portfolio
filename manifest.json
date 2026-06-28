@@ -1,0 +1,27 @@
+{
+    "name": "MinhHuyDev · Portfolio",
+    "short_name": "MinhHuyDev",
+    "description": "Portfolio cá nhân của Nguyễn Minh Huy — lập trình viên tự do.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#0b1220",
+    "theme_color": "#0b1220",
+    "lang": "vi-VN",
+    "categories": ["portfolio", "developer", "personal"],
+    "icons": [
+        {
+            "src": "https://nqminkhuy.com/information/assets/images/nmh-logo.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg",
+            "purpose": "any"
+        },
+        {
+            "src": "https://nqminkhuy.com/information/assets/images/nmh-logo.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        }
+    ]
+}

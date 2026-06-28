@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /api/
-Disallow: /AntiBot-Requests/
-Disallow: /assets/cookies/
-Disallow: /contact.php
-
-Sitemap: https://nqminkhuy.com/sitemap.xml
